@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch weights & checkpoints (large files)
+*.pt
+runs/
+
+# Dataset (tersedia via Roboflow, tidak disertakan di git)
+workout.v12i.yolov11/
+
+# Output media & video test
+*.mp4
+*.avi
+*.mov
+
+# File-file acuan praktikum lama (tidak disertakan di repositori proyek utama)
+YOLO.py
+ReadDisplayVideo.py
+ReadImageData.py
+Modul_6_Fuzzy_Logic.ipynb
+Labelling Data.ipynb
+
+# OS / IDE generated files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

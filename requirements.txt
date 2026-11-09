@@ -1,0 +1,16 @@
+# requirements.txt
+# Install semua library yang dibutuhkan dengan perintah:
+# pip install -r requirements.txt
+
+# Modul 10 - YOLO (ultralytics sudah include torch)
+ultralytics
+
+# Modul 9 - Membaca video dan gambar
+opencv-python
+
+# Modul 6 - Fuzzy Logic
+scikit-fuzzy
+
+# Pendukung operasi array (sudah termasuk di ultralytics, tapi dicantumkan)
+numpy
+
