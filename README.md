@@ -59,8 +59,8 @@ GERAKAN WORKOUT/
 
 1. Clone repositori ini ke komputer lokal:
    ```bash
-   git clone https://github.com/khazennn234-gif/WORKOUT-DETECTOR-AI.git
-   cd WORKOUT-DETECTOR-AI
+   git clone https://github.com/Khazennn234-gif/WORKOUT_REPS_DETECTOR.git
+   cd WORKOUT_REPS_DETECTOR
    ```
 
 2. Buat virtual environment (opsional namun disarankan):
